@@ -1,1 +1,5 @@
-# repotemporal
+• Fundamento en la LFDA: Al citar explícitamente la Ley Federal del Derecho de Autor, cualquier abogado, funcionario o tercero en México identifica de inmediato que el documento está blindado por el marco jurídico nacional.
+• Artículo 5º y 11º: Estos artículos estipulan que la protección del Estado se otorga de forma automática por el simple hecho de la creación, sin que sea obligatorio un registro previo para hacer valer tus derechos frente a terceros.
+• Artículo 13º Fracción XI: Clasifica y protege los programas de computación, bases de datos y estructuras lógicas digitales, encuadrando perfectamente la naturaleza de tu manifestación técnica y de metadatos.
+• Convenio de Berna: Es el tratado internacional que obliga a México y a más de 170 países a reconocer la autoría de forma transfronteriza y automática.
+De esta manera, el documento habla por sí mismo con términos que sus sistemas legales ya conocen, evitando que dependas de su disposición para escuchar o entender el trasfondo del proyecto.
